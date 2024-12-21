@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Pancakes",
+      "ingredients": ["Flour", "Sugar", "Milk"],
+      "instructions": "Mix ingredients and cook on a griddle.",
+      "taste": "sweet",
+      "cuisine": "American",
+      "prepTime": 15
+    },
+    {
+      "title": "Omelette",
+      "ingredients": ["Eggs", "Milk", "Salt"],
+      "instructions": "Whisk eggs and milk, cook in a pan.",
+      "taste": "savory",
+      "cuisine": "French",
+      "prepTime": 10
+    }
+  ]  
