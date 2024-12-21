@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+nltk
+spacy
+seaborn
+pyarrow
+fastparquet
+transformers
+tensorflow
+sentencepiece
+torch
