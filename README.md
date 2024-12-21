@@ -1,13 +1,15 @@
 Route: /api/ingredients
 Method: POST
 Sample Payload:
+
 '''json
 [
 {
   "name": "Sugar",
   "quantity": "2 cups"
 }
-]'''
+]
+'''
 Sample Response:
 '''json
 [
